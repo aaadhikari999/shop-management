@@ -17,7 +17,7 @@ It is a pos system that made for manage a shop, it work as a pos system.
 2. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/DulangaDasanayake/i-store.git](https://github.com/DulangaDasanayake/i-store.git)
+   git clone [https://github.com/aaadhikari999/shop-management.git](https://github.com/aaadhikari999/shop-management.git)
    ```
 
 3. **Install dependencies:**
